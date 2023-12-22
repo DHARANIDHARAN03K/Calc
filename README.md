@@ -167,8 +167,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<dharani/dharani/Screenshot 2023-12-21 113803.png>)
-![Alt text](<dharani/dharani/Screenshot 2023-12-21 113812.png>)
+![Screenshot 2023-12-21 113803](https://github.com/DHARANIDHARAN03K/Calc/assets/144870858/762dceeb-40eb-448f-ba56-4cd39c707eef)
+![Screenshot 2023-12-21 113812](https://github.com/DHARANIDHARAN03K/Calc/assets/144870858/dff534ca-3ec0-4974-97de-e734ae94ec99)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
